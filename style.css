@@ -28,6 +28,7 @@ header {
     border:5px solid rgb(87, 3, 3);
 }
 .details {
+    ul{list-style: none;}
     text-align:center;
     font-size:large;
     line-height: 2.0; 
